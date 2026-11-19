@@ -1,0 +1,9 @@
+title: "Britcast Guides"
+description: "Free IPTV troubleshooting guides and tools by Britcast (britcast.uk.com)."
+lang: en
+url: "https://iptv-help-guides.github.io"
+baseurl: "/britcast-uk-com-iptv-guides"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
